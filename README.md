@@ -1,3 +1,9 @@
+## 🧑‍💻 Penulis
+
+**Mu’adz Al Barki**  
+**43050230028**   
+__Proyek UTS Computer Vision Teknologi Informasi UIN Salatiga__
+
 # 🌀 Mangekyou Sharingan with OpenCV
 
 Proyek ini menampilkan bagaimana **OpenCV (cv2)** dan **NumPy (np)** digunakan untuk membuat dan memanipulasi gambar secara programatik.  
@@ -205,9 +211,13 @@ Semua hasil disimpan ke dalam folder `output/`, termasuk:
 
 ---
 
-## 🧑‍💻 Penulis
+## 🧩 Contoh Output
 
-**Mu’adz Al Barki**  
-📅 Tahun: 2025  
-🧠 Proyek UTS Computer Vision Teknologi Informasi UIN Salatiga
+| Original | Rotated | Bitwise And |
+|-----------|----------|----------------|
+| ![Original](output/Mangekyou.png) | ![Rotated](output/Mangekyou_Rotate.png) | ![Bitwise](output/Mangekyou_Bitwise_And.png)
 
+
+### Final Output
+
+<img src="output/0_Mangekyou_Final.png">
