@@ -209,5 +209,5 @@ Semua hasil disimpan ke dalam folder `output/`, termasuk:
 
 **Mu’adz Al Barki**  
 📅 Tahun: 2025  
-🧠 Proyek UTS Computer Vision dan Grafika Digital menggunakan OpenCV Teknologi Informasi UIN Salatiga
+🧠 Proyek UTS Computer Vision Teknologi Informasi UIN Salatiga
 
